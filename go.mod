@@ -1,3 +1,3 @@
-module github.com/deer-woman-dezigns/beadprint
+module github.com/maybeenaught/beadprint
 
 go 1.17
